@@ -6,9 +6,9 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		// ArrayList and Vector extends List extends Collection
-		// HashSet extends Set extends Collection
-		// HashMap extends Map
+		// ArrayList and Vector > List > Collection
+		// HashSet > Set > Collection
+		// HashMap > Map
 
 		// Si no se especifica el tipo de dato, por defecto es de tipo Object
 
